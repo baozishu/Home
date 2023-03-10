@@ -12,6 +12,11 @@ header: false
 footer: false
 # set false if you want to hide it.
 
+# Set the default layout and color scheme 
+defaults:
+  layout: columns # Either 'columns', or 'list'
+  colorTheme: auto # One of 'auto', 'light', or 'dark'
+
 # Optional theme customization
 theme: default
 colors:

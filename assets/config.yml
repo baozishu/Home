@@ -15,7 +15,7 @@ footer: false
 # Set the default layout and color scheme 
 defaults:
   layout: list # Either 'columns', or 'list'
-  colorTheme: light # One of 'auto', 'light', or 'dark'
+  colorTheme: dark # One of 'auto', 'light', or 'dark'
 
 # Optional theme customization
 theme: default

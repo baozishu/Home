@@ -12,7 +12,7 @@ header: true
 footer: false
 # set false of true if you want to hide it.
 
-# Set the default layout and color scheme 
+# Set the default layout and color scheme 设置默认布局和配色方案
 defaults:
   layout: list # Either 'columns', or 'list'
   colorTheme: dark # One of 'auto', 'light', or 'dark'
@@ -22,7 +22,9 @@ theme: default # 'default' or one of the themes available in 'src/assets/themes'
 
 # Will load Dracula theme.
 stylesheet:
-  - "assets/themes/catppucin/catppuccin-latte.css"
+  - "assets/themes/catppucin/catppuccin-mocha.css"
+# assets/themes/custom/custom.css
+# assets/themes/catppucin/catppuccin-mocha.css
 
 
 # Optional navbar

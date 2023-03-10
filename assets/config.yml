@@ -15,10 +15,8 @@ footer: false
 # Set the default layout and color scheme 设置默认布局和配色方案
 defaults:
   layout: list # Either 'columns', or 'list'
-  colorTheme: dark # One of 'auto', 'light', or 'dark'
+  colorTheme: auto # One of 'auto', 'light', or 'dark'
 
-# Optional theming
-theme: default # 'default' or one of the themes available in 'src/assets/themes'.
 
 # Will load Dracula theme.
 stylesheet:

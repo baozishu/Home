@@ -45,7 +45,7 @@ colors:
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
   - name: "Contribute"
-    icon: "fab fa-github"
+    icon: "fab fa-window"
     url: "https://github.com/bastienwirtz/homer"
     target: "_blank" # optional html a tag target attribute
   - name: "Wiki"

@@ -34,7 +34,7 @@
 /* Comment the following section out if you want no header image. Also, set --highlight-primary to var(--dracula-current-line). */
 
 #app.theme-default.is-dark #bighead {
-    background-image: url("../assets/dracula-background.png");
+    background-image: url("../assets/themes/custom/dracula-background.png");
     background-size: cover;
     background-position: center;
 }

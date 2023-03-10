@@ -19,6 +19,11 @@ defaults:
 
 # Optional theming
 theme: default # 'default' or one of the themes available in 'src/assets/themes'.
+# Will load Dracula theme.
+stylesheet:
+  - "assets/custom/custom.css"
+
+
 
 # Optional theme customization
 theme: default

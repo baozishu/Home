@@ -22,7 +22,7 @@ theme: default # 'default' or one of the themes available in 'src/assets/themes'
 
 # Will load Dracula theme.
 stylesheet:
-  - "assets/themes/catppuccin/catppuccin-macchiato.css"
+  - "assets/themes/custom/custom.css"
 
 
 # Optional navbar

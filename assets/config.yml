@@ -8,9 +8,9 @@ logo: "light_circle.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
 
-header: false
+header: true
 footer: false
-# set false if you want to hide it.
+# set false of true if you want to hide it.
 
 # Set the default layout and color scheme 
 defaults:
@@ -22,9 +22,6 @@ theme: default # 'default' or one of the themes available in 'src/assets/themes'
 # Will load Dracula theme.
 stylesheet:
   - "assets/custom/custom.css"
-
-
-
 
 
 # Optional navbar

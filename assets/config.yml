@@ -18,10 +18,12 @@ defaults:
   colorTheme: dark # One of 'auto', 'light', or 'dark'
 
 # Optional theming
-theme: default # 'default' or one of the themes available in 'src/assets/themes'.
+theme: "assets/themes/custom"
+# 'default' or one of the themes available in 'src/assets/themes'.
+
 # Will load Dracula theme.
-stylesheet:
-  - "assets/custom/custom.css"
+#stylesheet:
+#  - "assets/themes/custom/custom.css"
 
 
 # Optional navbar

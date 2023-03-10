@@ -129,6 +129,8 @@ ${n.comment}`:n.comment}this.doc.range[2]=n.offset;break}default:this.errors.pus
 title: "Dashboard"
 subtitle: "Homer"
 
+header: true
+footer: '<p>Created with <span class="has-text-danger">\u2764\uFE0F</span> with <a href="https://bulma.io/">bulma</a>, <a href="https://vuejs.org/">vuejs</a> & <a href="https://fontawesome.com/">font awesome</a> // Fork me on <a href="https://github.com/bastienwirtz/homer"><i class="fab fa-github-alt"></i></a></p>' # set false if you want to hide it.
 
 columns: 3
 connectivityCheck: true

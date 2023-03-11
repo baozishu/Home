@@ -65,7 +65,6 @@ services:
         logo: "assets/tools/131.png"
         subtitle: "过期时间：2023-05-12"
         tag: "保留"
-        url: "#"
         target: "_blank" # optional html a tag target attribute
       - name: "ONO.EE"
         logo: "assets/tools/ono.png"

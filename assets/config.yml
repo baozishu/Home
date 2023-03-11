@@ -60,6 +60,7 @@ services:
 # 域名
   - name: "域名"
     icon: "fas fa-signature"
+    tag: "域名"
     items:
       - name: "131.GS"
         logo: "assets/tools/131.png"
@@ -73,6 +74,11 @@ services:
         tag: "域名"
         url: "#"
       - name: "353.EE"
+        logo: "assets/tools/sample2.png"
+        subtitle: "Another application"
+        tag: "域名"
+        url: "#"
+      - name: "177157.xyz"
         logo: "assets/tools/sample2.png"
         subtitle: "Another application"
         tag: "域名"

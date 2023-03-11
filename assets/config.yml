@@ -61,6 +61,7 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
+
 services:
   - name: "域名"
     icon: "fas fa-bookmark"

@@ -56,11 +56,7 @@ services:
         keywords: "self hosted reddit"
         url: "https://ono.ee/"
         target: "_blank" # optional html a tag target attribute
-      - name: "Another one"
-        logo: "assets/tools/sample2.png"
-        subtitle: "Another application"
-        tag: "app"
-        url: "#"
+
 # 域名
   - name: "域名"
     icon: "fas fa-signature"

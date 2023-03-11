@@ -29,7 +29,7 @@ stylesheet:
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
   - name: "主页"
-    icon: "fas fa-paw-claws"
+    icon: "fas fa-user"
     url: "#"
     target: "_blank" # optional html a tag target attribute
   - name: "Wiki"

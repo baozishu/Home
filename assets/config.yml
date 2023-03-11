@@ -63,7 +63,7 @@ services:
     items:
       - name: "131.GS"
         logo: "assets/tools/131.png"
-        subtitle: "在互联网上留下足迹"
+        subtitle: "2023-05-12"
         tag: "域名"
         url: "#"
         target: "_blank" # optional html a tag target attribute
@@ -92,3 +92,10 @@ services:
         subtitle: "Another application"
         tag: "域名"
         url: "#"
+      - name: "175753.xyz"
+        logo: "assets/tools/sample2.png"
+        subtitle: "Another application"
+        tag: "域名"
+        url: "#"
+
+

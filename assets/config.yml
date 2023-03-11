@@ -29,7 +29,7 @@ stylesheet:
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
   - name: "主页"
-    icon: "fas fa-whatsapp"
+    icon: "fas fa-user"
     url: "#"
     target: "_blank" # optional html a tag target attribute
   - name: "Docker"
@@ -47,7 +47,7 @@ links:
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
   - name: "网站"
-    icon: "fas fa-cloud"
+    icon: "fas fa-thumbtack"
     items:
       - name: "狗头军师"
         logo: "assets/tools/sample.png"

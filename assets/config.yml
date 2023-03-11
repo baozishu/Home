@@ -63,7 +63,7 @@ services:
     items:
       - name: "131.GS"
         logo: "assets/tools/131.png"
-        subtitle: "2023-05-12"
+        subtitle: "过期时间：2023-05-12"
         tag: "域名"
         url: "#"
         target: "_blank" # optional html a tag target attribute
@@ -84,7 +84,7 @@ services:
         url: "#"
       - name: "聚.ONLINE"
         logo: "assets/tools/sample2.png"
-        subtitle: "2031-09-08"
+        subtitle: "过期时间：2031-09-08"
         tag: "域名"
         url: "#"
       - name: "177157.xyz"

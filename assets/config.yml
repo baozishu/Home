@@ -70,31 +70,31 @@ services:
         logo: "assets/tools/ono.png"
         subtitle: "过期时间：2024-03-03"
         tag: "保留"
-        url: "#"
+
       - name: "353.EE"
         logo: "assets/tools/353.png"
         subtitle: "过期时间：2024-02-08"
         tag: "保留"
-        url: "#"
+
       - name: "站.TOP"
         logo: "assets/tools/站.png"
         subtitle: "过期时间：2023-10-22"
         tag: "保留"
-        url: "#"
+
       - name: "聚.ONLINE"
         logo: "assets/tools/聚.png"
         subtitle: "过期时间：2031-09-08"
         tag: "保留"
-        url: "#"
+
       - name: "177157.xyz"
         logo: "assets/tools/177157.png"
         subtitle: "过期时间：2023-06-16"
         tag: "过渡"
-        url: "#"
+
       - name: "175753.xyz"
         logo: "assets/tools/175753.png"
         subtitle: "过期时间：2030-03-12"
         tag: "过渡"
-        url: "#"
+
 
 

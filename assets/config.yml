@@ -51,8 +51,8 @@ services:
     items:
       - name: "狗头军师"
         logo: "assets/tools/狗头.png"
-        subtitle: "博客"
-        tag: "app"
+        subtitle: "在互联网上留下足迹"
+        tag: "博客"
         keywords: "self hosted reddit"
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank" # optional html a tag target attribute

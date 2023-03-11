@@ -61,7 +61,7 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
-
+# 域名
   - name: "域名"
     icon: "fas fa-signature"
     items:
@@ -72,6 +72,11 @@ services:
         url: "#"
         target: "_blank" # optional html a tag target attribute
       - name: "ONO.EE"
+        logo: "assets/tools/sample2.png"
+        subtitle: "Another application"
+        tag: "域名"
+        url: "#"
+      - name: "353.EE"
         logo: "assets/tools/sample2.png"
         subtitle: "Another application"
         tag: "域名"

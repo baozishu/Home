@@ -68,7 +68,7 @@ services:
         url: "#"
         target: "_blank" # optional html a tag target attribute
       - name: "ONO.EE"
-        logo: "assets/tools/sample2.png"
+        logo: "assets/tools/ono.png"
         subtitle: "过期时间：2024-03-03"
         tag: "域名"
         url: "#"

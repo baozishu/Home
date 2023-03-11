@@ -61,20 +61,3 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
-
-services:
-  - name: "域名"
-    icon: "fas fa-bookmark"
-    items:
-      - name: "131.GS"
-        logo: "assets/tools/狗头.png"
-        subtitle: "在互联网上留下足迹"
-        tag: "博客"
-        keywords: "self hosted reddit"
-        url: "https://ono.ee/"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Another one"
-        logo: "assets/tools/sample2.png"
-        subtitle: "Another application"
-        tag: "app"
-        url: "#"

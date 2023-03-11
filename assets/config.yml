@@ -84,7 +84,7 @@ services:
         url: "#"
       - name: "聚.ONLINE"
         logo: "assets/tools/sample2.png"
-        subtitle: "Another application"
+        subtitle: "2031-09-08"
         tag: "域名"
         url: "#"
       - name: "177157.xyz"

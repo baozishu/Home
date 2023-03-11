@@ -29,12 +29,12 @@ stylesheet:
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
   - name: "主页"
-    icon: "fas fa-user"
+    icon: "fas fa-pager"
     url: "#"
     target: "_blank" # optional html a tag target attribute
-  - name: "Docker"
-    icon: "fas fa-archive"
-    url: "#"
+  - name: "博客"
+    icon: "fas fa-blog"
+    url: "//ono.ee"
   # <i class="fas fa-whale"class="fal fa-whale"></i>
   # this will link to a second homer page that will load config from additional-page.yml and keep default config values as in config.yml file
   # see url field and assets/additional-page.yml.dist used in this example:

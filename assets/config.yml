@@ -36,7 +36,7 @@ links:
     icon: "fas fa-whale"
     url: "#"
   - name: "测试"
-    icon: "fas fa-salad"
+    icon: "fas fa-books"
     url: "#"
   # <i class="fas fa-whale"class="fal fa-whale"></i>
   # this will link to a second homer page that will load config from additional-page.yml and keep default config values as in config.yml file

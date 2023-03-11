@@ -28,8 +28,8 @@ stylesheet:
 # Optional navbar
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
-  - name: "首页"
-    icon: "fab fa-whale"
+  - name: "主页"
+    icon: "fad fa-whale"
     url: "#"
     target: "_blank" # optional html a tag target attribute
   - name: "Wiki"

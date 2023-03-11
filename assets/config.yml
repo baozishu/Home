@@ -66,7 +66,7 @@ services:
     icon: "fas fa-signature"
     items:
       - name: "131.GS"
-        logo: "assets/tools/狗头.png"
+        logo: "assets/tools/131.png"
         subtitle: "在互联网上留下足迹"
         tag: "域名"
         url: "#"

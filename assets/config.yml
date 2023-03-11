@@ -33,9 +33,6 @@ links:
     url: "#"
     target: "_blank" # optional html a tag target attribute
   - name: "Docker"
-    icon: "fas fa-whale"
-    url: "#"
-  - name: "测试"
     icon: "fas fa-book"
     url: "#"
   # <i class="fas fa-whale"class="fal fa-whale"></i>
@@ -49,10 +46,10 @@ links:
 # First level array represent a group.
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
-  - name: "Applications"
+  - name: "网站"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app"
+      - name: "狗头军师"
         logo: "assets/tools/sample.png"
         subtitle: "Bookmark example"
         tag: "app"

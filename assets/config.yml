@@ -47,7 +47,7 @@ links:
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
   - name: "网站"
-    icon: "fas fa-cloud"
+    icon: "fas fa-browser"
     items:
       - name: "狗头军师"
         logo: "assets/tools/sample.png"

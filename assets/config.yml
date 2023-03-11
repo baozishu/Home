@@ -50,7 +50,7 @@ services:
     icon: "fas fa-bookmark"
     items:
       - name: "狗头军师"
-        logo: "assets/tools/sample.png"
+        logo: "assets/tools/狗头.png"
         subtitle: "Bookmark example"
         tag: "app"
         keywords: "self hosted reddit"

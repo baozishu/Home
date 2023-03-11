@@ -61,7 +61,7 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
-yuming:
+
   - name: "网站"
     icon: "fas fa-bookmark"
     items:
